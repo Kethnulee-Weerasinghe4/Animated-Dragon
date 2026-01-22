@@ -1,5 +1,5 @@
 # Animated Dragon
-
+An interactive SVG-based animated dragon that follows the user’s cursor with smooth procedural motion, dynamic color effects, and real-time wing-flutter audio using JavaScript.
 
 **Live Website:** [https://kethnulee-weerasinghe4.github.io/Animated-Dragon/](https://kethnulee-weerasinghe4.github.io/Animated-Dragon/)
 
@@ -8,6 +8,7 @@
 ## Overview
 
 Animated Dragon is an interactive SVG-based animation where a mythical dragon smoothly follows the user’s cursor with fluid, organic motion. The project combines procedural animation, dynamic color shifting, and real-time audio synthesis to create an immersive and responsive visual experience.
+
 The dragon is built from reusable SVG segments and animated using custom physics-style logic, giving it a natural “living creature” feel rather than a simple path-follow effect.
 
 ## Key Features
